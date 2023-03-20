@@ -1,10 +1,9 @@
-# Remove the pound sign and leading space for the properties below before publishing your game.
-# devid=anton
-# devtitle=friendlyantz
-# gameid=game_one
-# gametitle=Game One
-# version=0.1
-# icon=metadata/icon.png
+devid=friendlyantz
+devtitle=friendlyantz
+gameid=1978150
+gametitle=game_one
+version=0.1
+icon=metadata/icon.png
 
 # === Flags available at all licensing tiers ===
 
